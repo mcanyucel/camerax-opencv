@@ -1,0 +1,33 @@
+CMake Warning at C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)
+  C:/Users/musta/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake:93 (include)
+  CMakeLists.txt:3 (project)
+
+
+CMake Warning at C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)
+  D:/library/opencv/4.9.0/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1a2c4b25/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake:6 (include)
+  D:/library/opencv/4.9.0/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1a2c4b25/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake:416 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/musta/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake:55 (include)
+  D:/library/opencv/4.9.0/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1a2c4b25/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake:6 (include)
+  D:/library/opencv/4.9.0/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1a2c4b25/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+

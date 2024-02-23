@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.test.opencv-mergeDebugAndroidTestResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\bbbbbbbbbbbbbb\\opencv\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}
